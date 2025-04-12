@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weekly Update | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/weekly-update/</link>
+      <atom:link href="https://example.com/tags/weekly-update/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weekly Update</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>Weekly Update</title>
+      <link>https://example.com/tags/weekly-update/</link>
+    </image>
+    
+    <item>
+      <title>Обзор прошедшей недели</title>
+      <link>https://example.com/post/weekly-update/2025-04-12-weekly-update/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/weekly-update/2025-04-12-weekly-update/</guid>
+      <description>&lt;p&gt;На этой неделе я занималась следующими задачами:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Завершила важные этапы проекта по управлению.&lt;/li&gt;
+&lt;li&gt;Прошла несколько онлайн-курсов по новым технологиям.&lt;/li&gt;
+&lt;li&gt;Участвовала в нескольких встречах по координации команды.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;План на следующую неделю:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Прокачать навыки в Go и Python.&lt;/li&gt;
+&lt;li&gt;Подготовить новые материалы для блога.&lt;/li&gt;
+&lt;li&gt;Продолжить работать над проектами в сфере IT-консалтинга.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
