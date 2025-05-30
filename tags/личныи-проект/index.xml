@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Личный Проект | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B8-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/</link>
+      <atom:link href="http://localhost:1313/tags/%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B8-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/index.xml" rel="self" type="application/rss+xml" />
+    <description>Личный Проект</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Личный Проект</title>
+      <link>http://localhost:1313/tags/%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B8-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/</link>
+    </image>
+    
+    <item>
+      <title>Обзор прошедшей недели</title>
+      <link>http://localhost:1313/post/weekly-update/weekly-update-2025-05-05/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/weekly-update/weekly-update-2025-05-05/</guid>
+      <description>&lt;h2 id=&#34;-основные-достижения&#34;&gt;✨ Основные достижения&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Добавлен раздел &lt;strong&gt;Контакты&lt;/strong&gt;, ссылки на eLibrary, ORCID, Google Scholar и др.&lt;/li&gt;
+&lt;li&gt;Пост на тему &lt;strong&gt;языков разметки&lt;/strong&gt; опубликован.&lt;/li&gt;
+&lt;li&gt;Реализован &lt;code&gt;deploy.sh&lt;/code&gt; и успешно протестирован.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-технические-задачи&#34;&gt;🛠 Технические задачи&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Обновлён &lt;code&gt;menus.yaml&lt;/code&gt; — добавлен пункт &amp;ldquo;Контакты&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Проверена и протестирована структура папок &lt;code&gt;content/post/&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-планы-на-следующую-неделю&#34;&gt;📅 Планы на следующую неделю&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Сделать англоязычную версию сайта.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему &lt;strong&gt;«Работа с библиографией»&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Перевести раздел &amp;ldquo;Проекты&amp;rdquo; на английский язык.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
