@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Париж | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/%D0%BF%D0%B0%D1%80%D0%B8%D0%B6/</link>
-      <atom:link href="https://example.com/tags/%D0%BF%D0%B0%D1%80%D0%B8%D0%B6/index.xml" rel="self" type="application/rss+xml" />
+    <title>Париж | Personal Academic Website</title>
+    <link>http://localhost:1313/tags/%D0%BF%D0%B0%D1%80%D0%B8%D0%B6/</link>
+      <atom:link href="http://localhost:1313/tags/%D0%BF%D0%B0%D1%80%D0%B8%D0%B6/index.xml" rel="self" type="application/rss+xml" />
     <description>Париж</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Париж</title>
-      <link>https://example.com/tags/%D0%BF%D0%B0%D1%80%D0%B8%D0%B6/</link>
+      <link>http://localhost:1313/tags/%D0%BF%D0%B0%D1%80%D0%B8%D0%B6/</link>
     </image>
     
     <item>
       <title>IT-конференция в Париже: новые горизонты технологий</title>
-      <link>https://example.com/publication/conference-paper/</link>
+      <link>http://localhost:1313/publication/conference-paper/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
+      <guid>http://localhost:1313/publication/conference-paper/</guid>
       <description>&lt;p&gt;Конференция &lt;em&gt;Tech &amp;amp; Innovation Summit Paris 2025&lt;/em&gt; прошла в современном технологическом центре Station F, собрав более 5000 участников из разных стран мира. Программа была насыщенной: от утренних keynote-докладов до вечерних нетворкинг-сессий и воркшопов.&lt;/p&gt;
 &lt;p&gt;Особенно запомнились:&lt;/p&gt;
 &lt;ul&gt;

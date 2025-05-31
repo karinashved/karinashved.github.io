@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Искусственный Интеллект | Персональный сайт научного сотрудника</title>
+    <link>https://example.com/ru/tags/%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B8-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82/</link>
+      <atom:link href="https://example.com/ru/tags/%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B8-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82/index.xml" rel="self" type="application/rss+xml" />
+    <description>Искусственный Интеллект</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>Искусственный Интеллект</title>
+      <link>https://example.com/ru/tags/%D0%B8%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B8-%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82/</link>
+    </image>
+    
+    <item>
+      <title>IT-конференция в Париже: новые горизонты технологий</title>
+      <link>https://example.com/ru/publication/conference-paper/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/publication/conference-paper/</guid>
+      <description>&lt;p&gt;Конференция &lt;em&gt;Tech &amp;amp; Innovation Summit Paris 2025&lt;/em&gt; прошла в современном технологическом центре Station F, собрав более 5000 участников из разных стран мира. Программа была насыщенной: от утренних keynote-докладов до вечерних нетворкинг-сессий и воркшопов.&lt;/p&gt;
+&lt;p&gt;Особенно запомнились:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;выступление эксперта Google по этике ИИ о прозрачности алгоритмов;&lt;/li&gt;
+&lt;li&gt;панельная дискуссия по теме кибербезопасности в эпоху квантовых вычислений;&lt;/li&gt;
+&lt;li&gt;мастер-классы по созданию устойчивых программных решений на Python и Go.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Я также посетила стенды стартапов, которые показали инновации в сфере здравоохранения, умного города и образования. Атмосфера конференции вдохновляла на развитие и напоминала, как быстро меняется мир технологий.&lt;/p&gt;
+&lt;p&gt;Это мероприятие не только обогатило мои знания, но и стало важным этапом в моём профессиональном пути как начинающего разработчика.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

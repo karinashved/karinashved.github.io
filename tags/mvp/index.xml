@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mvp | Hugo Academic CV Theme</title>
+    <title>Mvp | Personal Academic Website</title>
     <link>https://example.com/tags/mvp/</link>
       <atom:link href="https://example.com/tags/mvp/index.xml" rel="self" type="application/rss+xml" />
     <description>Mvp</description>
@@ -13,48 +13,48 @@
     </image>
     
     <item>
-      <title>Hugo Blox для продакт-менеджеров: как создать продающий сайт продукта за день</title>
+      <title>Hugo Boss for product managers: how to create a selling product website in a day</title>
       <link>https://example.com/event/example/</link>
       <pubDate>Tue, 10 Oct 2023 11:00:00 +0000</pubDate>
       <guid>https://example.com/event/example/</guid>
-      <description>&lt;h2 id=&#34;о-чём-я-рассказала&#34;&gt;О чём я рассказала&lt;/h2&gt;
-&lt;h3 id=&#34;кейс-из-практики&#34;&gt;Кейс из практики&lt;/h3&gt;
+      <description>&lt;h2 id=&#34;what-i-talked-about&#34;&gt;What I talked about&lt;/h2&gt;
+&lt;h3 id=&#34;case-study&#34;&gt;Case study&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Как мы заменили неделю работы разработчиков на 1 день работы продукт-менеджера&lt;/li&gt;
-&lt;li&gt;12 вариаций лендинга для A/B-тестирования&lt;/li&gt;
-&lt;li&gt;Интеграция с Amplitude и Google Optimize&lt;/li&gt;
+&lt;li&gt;How we replaced a week of developer work with 1 day of a product manager&amp;rsquo;s work&lt;/li&gt;
+&lt;li&gt;12 landing page variations for A/B testing&lt;/li&gt;
+&lt;li&gt;Integration with Amplitude and Google Optimize&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;преимущества-hugo-blox-для-pm&#34;&gt;Преимущества Hugo Blox для PM&lt;/h3&gt;
+&lt;h3 id=&#34;advantages-of-hugo-blox-for-pms&#34;&gt;Advantages of Hugo Blox for PMs&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Готовые блоки&lt;/strong&gt; для:
+&lt;li&gt;&lt;strong&gt;Ready-made blocks&lt;/strong&gt; for:
 &lt;ul&gt;
-&lt;li&gt;Feature-листов&lt;/li&gt;
-&lt;li&gt;Pricing-страниц&lt;/li&gt;
+&lt;li&gt;Feature lists&lt;/li&gt;
+&lt;li&gt;Pricing pages&lt;/li&gt;
 &lt;li&gt;Customer stories&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Интеграции&lt;/strong&gt;:
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt;:
 &lt;ul&gt;
-&lt;li&gt;Typeform для сбора лидов&lt;/li&gt;
-&lt;li&gt;Calendly для демо-коллов&lt;/li&gt;
-&lt;li&gt;Hotjar для анализа поведения&lt;/li&gt;
+&lt;li&gt;Typeform for lead collection&lt;/li&gt;
+&lt;li&gt;Calendly for demo calls&lt;/li&gt;
+&lt;li&gt;Hotjar for behavior analysis&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id=&#34;живые-примеры&#34;&gt;Живые примеры&lt;/h3&gt;
+&lt;h3 id=&#34;live-examples&#34;&gt;Live examples&lt;/h3&gt;
 &lt;figure&gt;&lt;img src=&#34;conversion-growth.png&#34;
-    alt=&#34;Рост конверсии на 27% после теста&#34;&gt;&lt;figcaption&gt;
-      &lt;p&gt;Рост конверсии на 27% после теста&lt;/p&gt;
+    alt=&#34;Conversion growth by 27% after the test&#34;&gt;&lt;figcaption&gt;
+      &lt;p&gt;Conversion growth by 27% after the test&lt;/p&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;h2 id=&#34;для-кого-это-полезно&#34;&gt;Для кого это полезно&lt;/h2&gt;
+&lt;h2 id=&#34;who-will-benefit&#34;&gt;Who will benefit&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Продакт-менеджеры цифровых продуктов&lt;/li&gt;
-&lt;li&gt;Стартап-фаундеры&lt;/li&gt;
-&lt;li&gt;Маркетинг-команды&lt;/li&gt;
+&lt;li&gt;Digital product managers&lt;/li&gt;
+&lt;li&gt;Startup founders&lt;/li&gt;
+&lt;li&gt;Marketing teams&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Бонус:&lt;/strong&gt; Все участники получат мой шаблон лендинга в Notion с инструкциями.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bonus:&lt;/strong&gt; All participants will get my landing page template in Notion with instructions.&lt;/p&gt;
 
 
 
@@ -68,7 +68,7 @@
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
 &lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;&lt;a href=&#34;uploads/product-hunt-slides.pdf&#34;&gt;Скачать презентацию&lt;/a&gt; | &lt;a href=&#34;https://youtube.com/%d0%b2%d0%b0%d1%88%d0%b5-%d0%b2%d1%8b%d1%81%d1%82%d1%83%d0%bf%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Посмотреть запись&lt;/a&gt;&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;&lt;a href=&#34;uploads/product-hunt-slides.pdf&#34;&gt;Download presentation&lt;/a&gt; | &lt;a href=&#34;https://youtube.com/myperformance&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Watch recording&lt;/a&gt;&lt;/span&gt;
 &lt;/div&gt;
 </description>
     </item>

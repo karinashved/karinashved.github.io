@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology | Personal Academic Website</title>
+    <link>https://example.com/tags/technology/</link>
+      <atom:link href="https://example.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Technology</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>Technology</title>
+      <link>https://example.com/tags/technology/</link>
+    </image>
+    
+    <item>
+      <title>IT Conference in Paris: New Horizons of Technology</title>
+      <link>https://example.com/publication/conference-paper/</link>
+      <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/conference-paper/</guid>
+      <description>&lt;p&gt;The &lt;em&gt;Tech &amp;amp; Innovation Summit Paris 2025&lt;/em&gt; conference took place at the modern Station F technology hub, gathering over 5,000 participants from around the world. The program was packed with events, from morning keynote speeches to evening networking sessions and hands-on workshops.&lt;/p&gt;
+&lt;p&gt;Highlights included:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A presentation by a Google expert on AI ethics and algorithm transparency.&lt;/li&gt;
+&lt;li&gt;A panel discussion on cybersecurity in the age of quantum computing.&lt;/li&gt;
+&lt;li&gt;Workshops on creating sustainable software solutions using Python and Go.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I also visited several startup booths showcasing innovations in healthcare, smart city infrastructure, and education. The conference atmosphere was inspiring and reminded me how rapidly technology evolves.&lt;/p&gt;
+&lt;p&gt;This event not only enriched my knowledge but also marked an important milestone in my professional journey as an aspiring developer.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

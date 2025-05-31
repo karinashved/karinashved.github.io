@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Digital Transformation | Personal Academic Website</title>
+    <link>https://example.com/tags/digital-transformation/</link>
+      <atom:link href="https://example.com/tags/digital-transformation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Digital Transformation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>Digital Transformation</title>
+      <link>https://example.com/tags/digital-transformation/</link>
+    </image>
+    
+    <item>
+      <title>Project Management and Digital Transformation: Implementing IT Technologies in Business Processes</title>
+      <link>https://example.com/publication/journal-article/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article/</guid>
+      <description>&lt;p&gt;In an environment of increasing project complexity and the need for rapid adaptation to change, implementing IT tools has become an essential component of effective project management. In my practice, I apply hybrid methodologies that combine elements of Agile, Kanban, and traditional approaches.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Steps in Digital Transformation for Project Management:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Automating planning and control processes using Notion and Trello.&lt;/li&gt;
+&lt;li&gt;Centralizing documentation storage and communications.&lt;/li&gt;
+&lt;li&gt;Integrating development and management tools (GitHub Projects).&lt;/li&gt;
+&lt;li&gt;Visualizing progress and performance metrics.&lt;/li&gt;
+&lt;li&gt;Systematizing task assignments, deadlines, and responsibilities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These changes have reduced time spent on routine tasks, increased transparency for the team and clients, and improved quality control.&lt;/p&gt;
+&lt;p&gt;Digital transformation is not limited to adopting a single tool—it represents a philosophy of continuous process improvement. My approach is built on openness to experimentation, adaptability, and continuous feedback.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

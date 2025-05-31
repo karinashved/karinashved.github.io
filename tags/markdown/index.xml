@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Markdown | Hugo Academic CV Theme</title>
+    <title>Markdown | Personal Academic Website</title>
     <link>https://example.com/tags/markdown/</link>
       <atom:link href="https://example.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
@@ -13,27 +13,27 @@
     </image>
     
     <item>
-      <title>Лабораторные работы по Linux</title>
-      <link>https://example.com/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/pandas/</guid>
-      <description>&lt;p&gt;Изучение основ Linux, текстовых редакторов, консоли, каталоговой структуры&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Основы GO</title>
-      <link>https://example.com/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/pytorch/</guid>
-      <description>&lt;p&gt;Решение задач с помощью  Go&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Создание персонального сайта для научного работника с помощью Hugo</title>
+      <title>Creating a Personal Academic Website with Hugo</title>
       <link>https://example.com/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/scikit/</guid>
-      <description>&lt;p&gt;Проект по созданию персонального сайта для научного сотрудника с использованием генератора статических сайтов Hugo и шаблона Wowchemy, включающий разделы биографии, публикаций, интересов и блога.&lt;/p&gt;</description>
+      <description>&lt;p&gt;A project to create a personal website for an academic using the Hugo static site generator and the Wowchemy theme, including sections for biography, publications, interests, and a blog.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Go Basics</title>
+      <link>https://example.com/project/pytorch/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/pytorch/</guid>
+      <description>&lt;p&gt;Solving problems using Go.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Linux Lab Exercises</title>
+      <link>https://example.com/project/pandas/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/pandas/</guid>
+      <description>&lt;p&gt;Study of Linux fundamentals, text editors, the console, and directory structure.&lt;/p&gt;</description>
     </item>
     
   </channel>

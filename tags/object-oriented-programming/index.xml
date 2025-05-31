@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Object-Oriented Programming | Personal Academic Website</title>
+    <link>https://example.com/tags/object-oriented-programming/</link>
+      <atom:link href="https://example.com/tags/object-oriented-programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>Object-Oriented Programming</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>Object-Oriented Programming</title>
+      <link>https://example.com/tags/object-oriented-programming/</link>
+    </image>
+    
+    <item>
+      <title>Learning Object-Oriented Programming</title>
+      <link>https://example.com/publication/preprint/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/preprint/</guid>
+      <description>&lt;p&gt;In this project, I delved into the basics of object-oriented programming. In Python, I implemented:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Classes and methods&lt;/li&gt;
+&lt;li&gt;Inheritance and method overriding&lt;/li&gt;
+&lt;li&gt;Using &lt;code&gt;super()&lt;/code&gt; to call a parent class&lt;/li&gt;
+&lt;li&gt;Abstract classes and interfaces via the &lt;code&gt;abc&lt;/code&gt; module&lt;/li&gt;
+&lt;li&gt;Simple applications using classes, such as order simulation, library management, and geometric shape calculations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;OOP helps structure code to make it scalable, understandable, and reusable. This approach is widely used in developing large, maintainable software systems. Working with OOP was a significant milestone in my professional growth as an aspiring programmer.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

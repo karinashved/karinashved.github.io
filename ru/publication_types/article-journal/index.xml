@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article-Journal | Персональный сайт научного сотрудника</title>
+    <link>https://example.com/ru/publication_types/article-journal/</link>
+      <atom:link href="https://example.com/ru/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article-Journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>Article-Journal</title>
+      <link>https://example.com/ru/publication_types/article-journal/</link>
+    </image>
+    
+    <item>
+      <title>Project Management и цифровая трансформация: опыт внедрения IT-технологий в бизнес-процессы</title>
+      <link>https://example.com/ru/publication/journal-article/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/publication/journal-article/</guid>
+      <description>&lt;p&gt;В условиях растущей сложности проектов и необходимости быстро адаптироваться к изменениям, внедрение IT-инструментов становится неотъемлемой частью эффективного проектного управления. В своей практике я применяю гибридные методологии, совмещая элементы Agile, Kanban и классического подхода.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ключевые шаги цифровой трансформации в проектном управлении:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;автоматизация процессов планирования и контроля через Notion и Trello;&lt;/li&gt;
+&lt;li&gt;централизованное хранение документации и коммуникаций;&lt;/li&gt;
+&lt;li&gt;интеграция инструментов разработки и управления (GitHub Projects);&lt;/li&gt;
+&lt;li&gt;визуализация прогресса и метрик эффективности;&lt;/li&gt;
+&lt;li&gt;систематизация работы с задачами, сроками и ответственными.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Эти изменения позволили сократить время на рутинные задачи, повысить прозрачность для команды и заказчиков, а также улучшить контроль качества.&lt;/p&gt;
+&lt;p&gt;Цифровая трансформация не ограничивается внедрением одного инструмента — это философия непрерывного улучшения процессов. Мой подход строится на открытости к экспериментам, адаптивности и постоянной обратной связи.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

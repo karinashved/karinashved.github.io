@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Admin | Personal Academic Website</title>
+    <link>http://localhost:1313/author/admin/</link>
+      <atom:link href="http://localhost:1313/author/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Admin</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Admin</title>
+      <link>http://localhost:1313/author/admin/</link>
+    </image>
+    
+    <item>
+      <title>Изучение объектно-ориентированного программирования</title>
+      <link>http://localhost:1313/publication/preprint/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprint/</guid>
+      <description>&lt;p&gt;В этом проекте я погрузилась в основы объектно-ориентированного программирования. На языке Python были реализованы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;классы и методы;&lt;/li&gt;
+&lt;li&gt;наследование и переопределение методов;&lt;/li&gt;
+&lt;li&gt;использование &lt;code&gt;super()&lt;/code&gt; для вызова родительского класса;&lt;/li&gt;
+&lt;li&gt;абстрактные классы и интерфейсы через модуль &lt;code&gt;abc&lt;/code&gt;;&lt;/li&gt;
+&lt;li&gt;простые проекты с применением классов, таких как симуляция заказов, управление библиотекой, расчёт геометрических фигур.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ООП помогает структурировать код, делать его масштабируемым, понятным и удобным для повторного использования. Этот подход активно применяется в разработке больших и поддерживаемых программных систем. Работа с ООП стала важным этапом моего профессионального развития как начинающего программиста.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

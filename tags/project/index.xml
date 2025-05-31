@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project | Personal Academic Website</title>
+    <link>https://example.com/tags/project/</link>
+      <atom:link href="https://example.com/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Project</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>Project</title>
+      <link>https://example.com/tags/project/</link>
+    </image>
+    
+    <item>
+      <title>Weekly Update</title>
+      <link>https://example.com/post/weekly-update/weekly-update-2025-05-31/</link>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/weekly-update/weekly-update-2025-05-31/</guid>
+      <description>&lt;h1 id=&#34;weekly-update&#34;&gt;Weekly Update&lt;/h1&gt;
+&lt;h2 id=&#34;key-achievements-this-week&#34;&gt;Key Achievements This Week&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Completed a literature review on machine learning applications in bioinformatics.&lt;/li&gt;
+&lt;li&gt;Conducted analysis of experimental data on gene regulation using Python and the Pandas library.&lt;/li&gt;
+&lt;li&gt;Developed a prototype model for predicting gene expression based on collected data.&lt;/li&gt;
+&lt;li&gt;Held a meeting with the research supervisor to discuss interim results and adjust the research plan.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;current-tasks&#34;&gt;Current Tasks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Optimizing the prediction model using gradient boosting methods.&lt;/li&gt;
+&lt;li&gt;Preparing a presentation for the conference &amp;ldquo;Modern Data Analysis Methods in Biology.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Performing additional data analysis to identify correlations between variables.&lt;/li&gt;
+&lt;li&gt;Drafting a paper for publication in a specialized journal.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;plans-for-next-week&#34;&gt;Plans for Next Week&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Complete model optimization and carry out validation.&lt;/li&gt;
+&lt;li&gt;Begin work on visualizing research results using Matplotlib and Seaborn libraries.&lt;/li&gt;
+&lt;li&gt;Prepare a grant application to fund further research.&lt;/li&gt;
+&lt;li&gt;Review modern approaches to big data processing in biology.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;challenges-and-questions&#34;&gt;Challenges and Questions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Encountering difficulties processing large datasets due to computational resource limitations.&lt;/li&gt;
+&lt;li&gt;Need to clarify data submission format requirements for the upcoming publication.&lt;/li&gt;
+&lt;li&gt;Require consultation with a statistics expert for proper interpretation of analysis results.&lt;/li&gt;
+&lt;li&gt;Questions arise regarding the choice of optimal hyperparameters for the machine learning model.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Thank you for your attention! I am open to feedback and suggestions.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
