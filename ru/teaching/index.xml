@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Преподавание | Персональный сайт научного сотрудника</title>
-    <link>https://example.com/ru/teaching/</link>
-      <atom:link href="https://example.com/ru/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://karinashved.github.io/ru/teaching/</link>
+      <atom:link href="https://karinashved.github.io/ru/teaching/index.xml" rel="self" type="application/rss+xml" />
     <description>Преподавание</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://karinashved.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Преподавание</title>
-      <link>https://example.com/ru/teaching/</link>
+      <link>https://karinashved.github.io/ru/teaching/</link>
     </image>
     
     <item>
       <title>Изучаем JavaScript</title>
-      <link>https://example.com/ru/teaching/js/</link>
+      <link>https://karinashved.github.io/ru/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/teaching/js/</guid>
+      <guid>https://karinashved.github.io/ru/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; создан для удобства технических авторов. Вы фокусируетесь на контенте, а шаблон Hugo Blox позаботится обо всём остальном.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Вставляйте видео, подкасты, код, формулы LaTeX и даже тесты для студентов!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;На этой странице вы найдёте примеры технического контента, который можно создавать с Hugo Blox.&lt;/p&gt;
@@ -70,9 +70,9 @@
     
     <item>
       <title>Изучите Python</title>
-      <link>https://example.com/ru/teaching/python/</link>
+      <link>https://karinashved.github.io/ru/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/teaching/python/</guid>
+      <guid>https://karinashved.github.io/ru/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; создан для того, чтобы технические авторы могли сосредоточиться на содержании, а Hugo Blox — на всем остальном.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Встраивайте видео, подкасты, код, формулы LaTeX и даже тесты для студентов!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;На этой странице вы найдёте примеры различных типов технического контента, которые можно использовать с Hugo Blox.&lt;/p&gt;
@@ -119,7 +119,7 @@
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://example.com/ru/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://karinashved.github.io/ru/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;проверка-знаний&#34;&gt;Проверка знаний&lt;/h2&gt;

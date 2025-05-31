@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo | Personal Academic Website</title>
-    <link>https://example.com/tags/hugo/</link>
-      <atom:link href="https://example.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://karinashved.github.io/tags/hugo/</link>
+      <atom:link href="https://karinashved.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://karinashved.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Hugo</title>
-      <link>https://example.com/tags/hugo/</link>
+      <link>https://karinashved.github.io/tags/hugo/</link>
     </image>
     
     <item>
       <title>Creating a Personal Academic Website with Hugo</title>
-      <link>https://example.com/project/scikit/</link>
+      <link>https://karinashved.github.io/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/scikit/</guid>
+      <guid>https://karinashved.github.io/project/scikit/</guid>
       <description>&lt;p&gt;A project to create a personal website for an academic using the Hugo static site generator and the Wowchemy theme, including sections for biography, publications, interests, and a blog.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Go Basics</title>
-      <link>https://example.com/project/pytorch/</link>
+      <link>https://karinashved.github.io/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/pytorch/</guid>
+      <guid>https://karinashved.github.io/project/pytorch/</guid>
       <description>&lt;p&gt;Solving problems using Go.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Linux Lab Exercises</title>
-      <link>https://example.com/project/pandas/</link>
+      <link>https://karinashved.github.io/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/pandas/</guid>
+      <guid>https://karinashved.github.io/project/pandas/</guid>
       <description>&lt;p&gt;Study of Linux fundamentals, text editors, the console, and directory structure.&lt;/p&gt;</description>
     </item>
     

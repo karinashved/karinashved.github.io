@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mvp | Personal Academic Website</title>
-    <link>https://example.com/tags/mvp/</link>
-      <atom:link href="https://example.com/tags/mvp/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://karinashved.github.io/tags/mvp/</link>
+      <atom:link href="https://karinashved.github.io/tags/mvp/index.xml" rel="self" type="application/rss+xml" />
     <description>Mvp</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 11:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://karinashved.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Mvp</title>
-      <link>https://example.com/tags/mvp/</link>
+      <link>https://karinashved.github.io/tags/mvp/</link>
     </image>
     
     <item>
       <title>Hugo Boss for product managers: how to create a selling product website in a day</title>
-      <link>https://example.com/event/example/</link>
+      <link>https://karinashved.github.io/event/example/</link>
       <pubDate>Tue, 10 Oct 2023 11:00:00 +0000</pubDate>
-      <guid>https://example.com/event/example/</guid>
+      <guid>https://karinashved.github.io/event/example/</guid>
       <description>&lt;h2 id=&#34;what-i-talked-about&#34;&gt;What I talked about&lt;/h2&gt;
 &lt;h3 id=&#34;case-study&#34;&gt;Case study&lt;/h3&gt;
 &lt;ul&gt;

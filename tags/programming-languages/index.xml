@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming Languages | Personal Academic Website</title>
-    <link>https://example.com/tags/programming-languages/</link>
-      <atom:link href="https://example.com/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://karinashved.github.io/tags/programming-languages/</link>
+      <atom:link href="https://karinashved.github.io/tags/programming-languages/index.xml" rel="self" type="application/rss+xml" />
     <description>Programming Languages</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://karinashved.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Programming Languages</title>
-      <link>https://example.com/tags/programming-languages/</link>
+      <link>https://karinashved.github.io/tags/programming-languages/</link>
     </image>
     
     <item>
       <title>Scientific Programming Languages</title>
-      <link>https://example.com/post/scientific-programming-languages/languages/</link>
+      <link>https://karinashved.github.io/post/scientific-programming-languages/languages/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/scientific-programming-languages/languages/</guid>
+      <guid>https://karinashved.github.io/post/scientific-programming-languages/languages/</guid>
       <description>&lt;h2 id=&#34;scientific-programming-languages-which-one-to-choose-for-researchers&#34;&gt;Scientific Programming Languages: Which One to Choose for Researchers?&lt;/h2&gt;
 &lt;p&gt;Scientific programming is a field where computational efficiency and algorithm accuracy play a key role. Choosing a programming language for scientific work depends on many factors: research domain, available libraries, performance and visualization requirements, as well as the researcher&amp;rsquo;s personal preferences.&lt;/p&gt;
 &lt;h3 id=&#34;-popular-scientific-programming-languages&#34;&gt;🔬 Popular Scientific Programming Languages&lt;/h3&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JavaScript | Персональный сайт научного сотрудника</title>
-    <link>https://example.com/ru/tags/javascript/</link>
-      <atom:link href="https://example.com/ru/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://karinashved.github.io/ru/tags/javascript/</link>
+      <atom:link href="https://karinashved.github.io/ru/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <description>JavaScript</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://karinashved.github.io/media/icon_hu7729264130191091259.png</url>
       <title>JavaScript</title>
-      <link>https://example.com/ru/tags/javascript/</link>
+      <link>https://karinashved.github.io/ru/tags/javascript/</link>
     </image>
     
     <item>
       <title>Изучаем JavaScript</title>
-      <link>https://example.com/ru/teaching/js/</link>
+      <link>https://karinashved.github.io/ru/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/teaching/js/</guid>
+      <guid>https://karinashved.github.io/ru/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; создан для удобства технических авторов. Вы фокусируетесь на контенте, а шаблон Hugo Blox позаботится обо всём остальном.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Вставляйте видео, подкасты, код, формулы LaTeX и даже тесты для студентов!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;На этой странице вы найдёте примеры технического контента, который можно создавать с Hugo Blox.&lt;/p&gt;

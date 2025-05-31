@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weekly Update | Personal Academic Website</title>
-    <link>https://example.com/tags/weekly-update/</link>
-      <atom:link href="https://example.com/tags/weekly-update/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://karinashved.github.io/tags/weekly-update/</link>
+      <atom:link href="https://karinashved.github.io/tags/weekly-update/index.xml" rel="self" type="application/rss+xml" />
     <description>Weekly Update</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://karinashved.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Weekly Update</title>
-      <link>https://example.com/tags/weekly-update/</link>
+      <link>https://karinashved.github.io/tags/weekly-update/</link>
     </image>
     
     <item>
       <title>Weekly Update</title>
-      <link>https://example.com/post/weekly-update/2025-04-12-weekly-update/</link>
+      <link>https://karinashved.github.io/post/weekly-update/2025-04-12-weekly-update/</link>
       <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/weekly-update/2025-04-12-weekly-update/</guid>
+      <guid>https://karinashved.github.io/post/weekly-update/2025-04-12-weekly-update/</guid>
       <description>&lt;p&gt;This week I worked on the following tasks:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Completed important milestones in the project management initiative.&lt;/li&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Персональный сайт научного сотрудника</title>
-    <link>https://example.com/ru/</link>
-      <atom:link href="https://example.com/ru/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://karinashved.github.io/ru/</link>
+      <atom:link href="https://karinashved.github.io/ru/index.xml" rel="self" type="application/rss+xml" />
     <description>Персональный сайт научного сотрудника</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://karinashved.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Персональный сайт научного сотрудника</title>
-      <link>https://example.com/ru/</link>
+      <link>https://karinashved.github.io/ru/</link>
     </image>
     
     <item>
       <title>Еженедельное обновление</title>
-      <link>https://example.com/ru/post/weekly-update/weekly-update-2025-05-31/</link>
+      <link>https://karinashved.github.io/ru/post/weekly-update/weekly-update-2025-05-31/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/weekly-update/weekly-update-2025-05-31/</guid>
+      <guid>https://karinashved.github.io/ru/post/weekly-update/weekly-update-2025-05-31/</guid>
       <description>&lt;h1 id=&#34;еженедельное-обновление&#34;&gt;Еженедельное обновление&lt;/h1&gt;
 &lt;h2 id=&#34;основные-достижения-за-неделю&#34;&gt;Основные достижения за неделю&lt;/h2&gt;
 &lt;ul&gt;
@@ -53,9 +53,9 @@
     
     <item>
       <title>Почему изучение дискретной математики важно для аналитика</title>
-      <link>https://example.com/ru/post/discretemath/discretemath/</link>
+      <link>https://karinashved.github.io/ru/post/discretemath/discretemath/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/discretemath/discretemath/</guid>
+      <guid>https://karinashved.github.io/ru/post/discretemath/discretemath/</guid>
       <description>&lt;h1 id=&#34;почему-изучение-дискретной-математики-важно-для-аналитика&#34;&gt;Почему изучение дискретной математики важно для аналитика&lt;/h1&gt;
 &lt;p&gt;Дискретная математика — это раздел математики, который изучает конечные или счётные множества объектов. Она охватывает такие темы, как теория множеств, комбинаторика, графы, логика, теория чисел и алгоритмы.&lt;/p&gt;
 &lt;h2 id=&#34;зачем-аналитикам-дискретная-математика&#34;&gt;Зачем аналитикам дискретная математика?&lt;/h2&gt;
@@ -91,9 +91,9 @@
     
     <item>
       <title>Project Management и цифровая трансформация: опыт внедрения IT-технологий в бизнес-процессы</title>
-      <link>https://example.com/ru/publication/journal-article/</link>
+      <link>https://karinashved.github.io/ru/publication/journal-article/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/publication/journal-article/</guid>
+      <guid>https://karinashved.github.io/ru/publication/journal-article/</guid>
       <description>&lt;p&gt;В условиях растущей сложности проектов и необходимости быстро адаптироваться к изменениям, внедрение IT-инструментов становится неотъемлемой частью эффективного проектного управления. В своей практике я применяю гибридные методологии, совмещая элементы Agile, Kanban и классического подхода.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ключевые шаги цифровой трансформации в проектном управлении:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -111,9 +111,9 @@
     
     <item>
       <title>Изучение объектно-ориентированного программирования</title>
-      <link>https://example.com/ru/publication/preprint/</link>
+      <link>https://karinashved.github.io/ru/publication/preprint/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/publication/preprint/</guid>
+      <guid>https://karinashved.github.io/ru/publication/preprint/</guid>
       <description>&lt;p&gt;В этом проекте я погрузилась в основы объектно-ориентированного программирования. На языке Python были реализованы:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;классы и методы;&lt;/li&gt;
@@ -128,9 +128,9 @@
     
     <item>
       <title>Языки научного программирования</title>
-      <link>https://example.com/ru/post/scientific-programming-languages/languages/</link>
+      <link>https://karinashved.github.io/ru/post/scientific-programming-languages/languages/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/scientific-programming-languages/languages/</guid>
+      <guid>https://karinashved.github.io/ru/post/scientific-programming-languages/languages/</guid>
       <description>&lt;h2 id=&#34;языки-научного-программирования-что-выбрать-исследователю&#34;&gt;Языки научного программирования: что выбрать исследователю?&lt;/h2&gt;
 &lt;p&gt;Научное программирование — это область, где эффективность вычислений и точность алгоритмов играют ключевую роль. Выбор языка программирования для научной работы зависит от множества факторов: области исследования, доступных библиотек, требований к производительности и визуализации, а также личных предпочтений исследователя.&lt;/p&gt;
 &lt;h3 id=&#34;-популярные-языки-научного-программирования&#34;&gt;🔬 Популярные языки научного программирования&lt;/h3&gt;
@@ -163,9 +163,9 @@
     
     <item>
       <title>IT-конференция в Париже: новые горизонты технологий</title>
-      <link>https://example.com/ru/publication/conference-paper/</link>
+      <link>https://karinashved.github.io/ru/publication/conference-paper/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/publication/conference-paper/</guid>
+      <guid>https://karinashved.github.io/ru/publication/conference-paper/</guid>
       <description>&lt;p&gt;Конференция &lt;em&gt;Tech &amp;amp; Innovation Summit Paris 2025&lt;/em&gt; прошла в современном технологическом центре Station F, собрав более 5000 участников из разных стран мира. Программа была насыщенной: от утренних keynote-докладов до вечерних нетворкинг-сессий и воркшопов.&lt;/p&gt;
 &lt;p&gt;Особенно запомнились:&lt;/p&gt;
 &lt;ul&gt;
@@ -180,9 +180,9 @@
     
     <item>
       <title>Weekly Update</title>
-      <link>https://example.com/ru/post/weekly-update/weekly-update-2025-05-05/</link>
+      <link>https://karinashved.github.io/ru/post/weekly-update/weekly-update-2025-05-05/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/weekly-update/weekly-update-2025-05-05/</guid>
+      <guid>https://karinashved.github.io/ru/post/weekly-update/weekly-update-2025-05-05/</guid>
       <description>&lt;h2 id=&#34;-основные-достижения&#34;&gt;✨ Основные достижения&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Добавлен раздел &lt;strong&gt;Контакты&lt;/strong&gt;, ссылки на eLibrary, ORCID, Google Scholar и др.&lt;/li&gt;
@@ -205,9 +205,9 @@
     
     <item>
       <title>Working with bibliography</title>
-      <link>https://example.com/ru/post/working-with-the-bibliography/workwithbibliography/</link>
+      <link>https://karinashved.github.io/ru/post/working-with-the-bibliography/workwithbibliography/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/working-with-the-bibliography/workwithbibliography/</guid>
+      <guid>https://karinashved.github.io/ru/post/working-with-the-bibliography/workwithbibliography/</guid>
       <description>&lt;p&gt;Для научного сайта особенно важно правильно оформлять список публикаций и уметь эффективно управлять библиографией. В этом посте я делюсь тем, как я реализовала работу с научной литературой в проекте персонального сайта на Hugo с использованием темы Wowchemy.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Почему это важно?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Библиография&lt;/em&gt; — неотъемлемая часть академической деятельности. Она позволяет демонстрировать научные достижения, создавать прозрачную систему ссылок и облегчает другим исследователям доступ к вашим работам.&lt;/p&gt;
@@ -240,9 +240,9 @@ Zotero и Mendeley — бесплатные менеджеры библиогр�
     
     <item>
       <title>git-versions-management</title>
-      <link>https://example.com/ru/post/version-control-git/2025-04-12-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git/</link>
+      <link>https://karinashved.github.io/ru/post/version-control-git/2025-04-12-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git/</link>
       <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/version-control-git/2025-04-12-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git/</guid>
+      <guid>https://karinashved.github.io/ru/post/version-control-git/2025-04-12-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git/</guid>
       <description>&lt;h1 id=&#34;управление-версиями-git&#34;&gt;&lt;strong&gt;Управление версиями. Git&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;Git — это мощная система контроля версий, которая стала неотъемлемой частью современной разработки программного обеспечения. Она позволяет разработчикам отслеживать изменения в файлах, координировать работу между несколькими людьми и эффективно управлять различными версиями проекта.&lt;/p&gt;
 &lt;h2 id=&#34;что-такое-git-и-зачем-он-нужен&#34;&gt;&lt;strong&gt;Что такое Git и зачем он нужен?&lt;/strong&gt;&lt;/h2&gt;
@@ -280,9 +280,9 @@ Zotero и Mendeley — бесплатные менеджеры библиогр�
     
     <item>
       <title>markup-languages</title>
-      <link>https://example.com/ru/post/markup-languages/2025-04-12-markup-languages/</link>
+      <link>https://karinashved.github.io/ru/post/markup-languages/2025-04-12-markup-languages/</link>
       <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/markup-languages/2025-04-12-markup-languages/</guid>
+      <guid>https://karinashved.github.io/ru/post/markup-languages/2025-04-12-markup-languages/</guid>
       <description>&lt;h1 id=&#34;легковесные-языки-разметки&#34;&gt;&lt;strong&gt;Легковесные языки разметки&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Легковесные языки разметки&lt;/strong&gt; — это простые и гибкие форматы, используемые для создания и редактирования текстов с минимальным набором &lt;strong&gt;синтаксиса&lt;/strong&gt;. Они широко используются в &lt;strong&gt;блогах&lt;/strong&gt;, &lt;strong&gt;документации&lt;/strong&gt; и других текстовых проектах благодаря своей &lt;strong&gt;простоте&lt;/strong&gt; и &lt;strong&gt;удобству использования&lt;/strong&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;преимущества-легковесных-языков-разметки&#34;&gt;&lt;strong&gt;Преимущества легковесных языков разметки&lt;/strong&gt;&lt;/h2&gt;
@@ -341,9 +341,9 @@ Zotero и Mendeley — бесплатные менеджеры библиогр�
     
     <item>
       <title>Обзор прошедшей недели</title>
-      <link>https://example.com/ru/post/weekly-update/2025-04-12-weekly-update/</link>
+      <link>https://karinashved.github.io/ru/post/weekly-update/2025-04-12-weekly-update/</link>
       <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/weekly-update/2025-04-12-weekly-update/</guid>
+      <guid>https://karinashved.github.io/ru/post/weekly-update/2025-04-12-weekly-update/</guid>
       <description>&lt;p&gt;На этой неделе я занималась следующими задачами:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Завершила важные этапы проекта по управлению.&lt;/li&gt;
@@ -361,9 +361,9 @@ Zotero и Mendeley — бесплатные менеджеры библиогр�
     
     <item>
       <title>Weekly Update</title>
-      <link>https://example.com/ru/post/weekly-update/weekly-update-2025-04-02/</link>
+      <link>https://karinashved.github.io/ru/post/weekly-update/weekly-update-2025-04-02/</link>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/weekly-update/weekly-update-2025-04-02/</guid>
+      <guid>https://karinashved.github.io/ru/post/weekly-update/weekly-update-2025-04-02/</guid>
       <description>&lt;h1 id=&#34;прошедшая-неделя-2025-04-02-обзор-событий&#34;&gt;&lt;strong&gt;Прошедшая неделя 2025-04-02. Обзор событий&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;Позапрошедшая неделя была насыщенной и интересной. В этой неделе произошло много важных событий, которые я хочу поделиться с вами.&lt;/p&gt;
 &lt;h2 id=&#34;основные-события&#34;&gt;&lt;strong&gt;Основные события&lt;/strong&gt;&lt;/h2&gt;
@@ -389,41 +389,41 @@ Zotero и Mendeley — бесплатные менеджеры библиогр�
     
     <item>
       <title>Проекты</title>
-      <link>https://example.com/ru/projects/</link>
+      <link>https://karinashved.github.io/ru/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/projects/</guid>
+      <guid>https://karinashved.github.io/ru/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Лабораторные работы по Linux</title>
-      <link>https://example.com/ru/project/pandas/</link>
+      <link>https://karinashved.github.io/ru/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/pandas/</guid>
+      <guid>https://karinashved.github.io/ru/project/pandas/</guid>
       <description>&lt;p&gt;Изучение основ Linux, текстовых редакторов, консоли, каталоговой структуры&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Основы GO</title>
-      <link>https://example.com/ru/project/pytorch/</link>
+      <link>https://karinashved.github.io/ru/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/pytorch/</guid>
+      <guid>https://karinashved.github.io/ru/project/pytorch/</guid>
       <description>&lt;p&gt;Решение задач с помощью  Go&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Создание персонального сайта для научного работника с помощью Hugo</title>
-      <link>https://example.com/ru/project/scikit/</link>
+      <link>https://karinashved.github.io/ru/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/scikit/</guid>
+      <guid>https://karinashved.github.io/ru/project/scikit/</guid>
       <description>&lt;p&gt;Проект по созданию персонального сайта для научного сотрудника с использованием генератора статических сайтов Hugo и шаблона Wowchemy, включающий разделы биографии, публикаций, интересов и блога.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Изучаем JavaScript</title>
-      <link>https://example.com/ru/teaching/js/</link>
+      <link>https://karinashved.github.io/ru/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/teaching/js/</guid>
+      <guid>https://karinashved.github.io/ru/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; создан для удобства технических авторов. Вы фокусируетесь на контенте, а шаблон Hugo Blox позаботится обо всём остальном.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Вставляйте видео, подкасты, код, формулы LaTeX и даже тесты для студентов!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;На этой странице вы найдёте примеры технического контента, который можно создавать с Hugo Blox.&lt;/p&gt;
@@ -477,9 +477,9 @@ Zotero и Mendeley — бесплатные менеджеры библиогр�
     
     <item>
       <title>Изучите Python</title>
-      <link>https://example.com/ru/teaching/python/</link>
+      <link>https://karinashved.github.io/ru/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/teaching/python/</guid>
+      <guid>https://karinashved.github.io/ru/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; создан для того, чтобы технические авторы могли сосредоточиться на содержании, а Hugo Blox — на всем остальном.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Встраивайте видео, подкасты, код, формулы LaTeX и даже тесты для студентов!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;На этой странице вы найдёте примеры различных типов технического контента, которые можно использовать с Hugo Blox.&lt;/p&gt;
@@ -526,7 +526,7 @@ Zotero и Mendeley — бесплатные менеджеры библиогр�
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://example.com/ru/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://karinashved.github.io/ru/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;проверка-знаний&#34;&gt;Проверка знаний&lt;/h2&gt;
@@ -539,17 +539,17 @@ Zotero и Mendeley — бесплатные менеджеры библиогр�
     
     <item>
       <title>Опыт</title>
-      <link>https://example.com/ru/experience/</link>
+      <link>https://karinashved.github.io/ru/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/experience/</guid>
+      <guid>https://karinashved.github.io/ru/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo Boss для продакт-менеджеров: как создать продающий сайт продукта за день</title>
-      <link>https://example.com/ru/event/example/</link>
+      <link>https://karinashved.github.io/ru/event/example/</link>
       <pubDate>Tue, 10 Oct 2023 11:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/event/example/</guid>
+      <guid>https://karinashved.github.io/ru/event/example/</guid>
       <description>&lt;h2 id=&#34;о-чём-я-рассказала&#34;&gt;О чём я рассказала&lt;/h2&gt;
 &lt;h3 id=&#34;кейс-из-практики&#34;&gt;Кейс из практики&lt;/h3&gt;
 &lt;ul&gt;
@@ -608,9 +608,9 @@ Zotero и Mendeley — бесплатные менеджеры библиогр�
     
     <item>
       <title>Контакты</title>
-      <link>https://example.com/ru/contact/</link>
+      <link>https://karinashved.github.io/ru/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/contact/</guid>
+      <guid>https://karinashved.github.io/ru/contact/</guid>
       <description>&lt;h2 id=&#34;научные-и-библиометрические-ресуры&#34;&gt;Научные и библиометрические ресуры&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?view_op=new_profile&amp;amp;hl=ru&amp;amp;authuser=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;

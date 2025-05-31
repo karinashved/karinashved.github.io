@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Update | Personal Academic Website</title>
-    <link>https://example.com/tags/update/</link>
-      <atom:link href="https://example.com/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://karinashved.github.io/tags/update/</link>
+      <atom:link href="https://karinashved.github.io/tags/update/index.xml" rel="self" type="application/rss+xml" />
     <description>Update</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://karinashved.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Update</title>
-      <link>https://example.com/tags/update/</link>
+      <link>https://karinashved.github.io/tags/update/</link>
     </image>
     
     <item>
       <title>Weekly Update</title>
-      <link>https://example.com/post/weekly-update/weekly-update-2025-05-31/</link>
+      <link>https://karinashved.github.io/post/weekly-update/weekly-update-2025-05-31/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/weekly-update/weekly-update-2025-05-31/</guid>
+      <guid>https://karinashved.github.io/post/weekly-update/weekly-update-2025-05-31/</guid>
       <description>&lt;h1 id=&#34;weekly-update&#34;&gt;Weekly Update&lt;/h1&gt;
 &lt;h2 id=&#34;key-achievements-this-week&#34;&gt;Key Achievements This Week&lt;/h2&gt;
 &lt;ul&gt;

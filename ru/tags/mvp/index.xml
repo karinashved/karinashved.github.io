@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mvp | Персональный сайт научного сотрудника</title>
-    <link>https://example.com/ru/tags/mvp/</link>
-      <atom:link href="https://example.com/ru/tags/mvp/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://karinashved.github.io/ru/tags/mvp/</link>
+      <atom:link href="https://karinashved.github.io/ru/tags/mvp/index.xml" rel="self" type="application/rss+xml" />
     <description>Mvp</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Tue, 10 Oct 2023 11:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://karinashved.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Mvp</title>
-      <link>https://example.com/ru/tags/mvp/</link>
+      <link>https://karinashved.github.io/ru/tags/mvp/</link>
     </image>
     
     <item>
       <title>Hugo Boss для продакт-менеджеров: как создать продающий сайт продукта за день</title>
-      <link>https://example.com/ru/event/example/</link>
+      <link>https://karinashved.github.io/ru/event/example/</link>
       <pubDate>Tue, 10 Oct 2023 11:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/event/example/</guid>
+      <guid>https://karinashved.github.io/ru/event/example/</guid>
       <description>&lt;h2 id=&#34;о-чём-я-рассказала&#34;&gt;О чём я рассказала&lt;/h2&gt;
 &lt;h3 id=&#34;кейс-из-практики&#34;&gt;Кейс из практики&lt;/h3&gt;
 &lt;ul&gt;

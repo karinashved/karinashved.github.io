@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal Academic Website</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://karinashved.github.io/</link>
+      <atom:link href="https://karinashved.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Personal Academic Website</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://karinashved.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Personal Academic Website</title>
-      <link>https://example.com/</link>
+      <link>https://karinashved.github.io/</link>
     </image>
     
     <item>
       <title>Weekly Update</title>
-      <link>https://example.com/post/weekly-update/weekly-update-2025-05-31/</link>
+      <link>https://karinashved.github.io/post/weekly-update/weekly-update-2025-05-31/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/weekly-update/weekly-update-2025-05-31/</guid>
+      <guid>https://karinashved.github.io/post/weekly-update/weekly-update-2025-05-31/</guid>
       <description>&lt;h1 id=&#34;weekly-update&#34;&gt;Weekly Update&lt;/h1&gt;
 &lt;h2 id=&#34;key-achievements-this-week&#34;&gt;Key Achievements This Week&lt;/h2&gt;
 &lt;ul&gt;
@@ -53,9 +53,9 @@
     
     <item>
       <title>Why Learning Discrete Mathematics is Important for Analysts</title>
-      <link>https://example.com/post/discretemath/discretemath/</link>
+      <link>https://karinashved.github.io/post/discretemath/discretemath/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/discretemath/discretemath/</guid>
+      <guid>https://karinashved.github.io/post/discretemath/discretemath/</guid>
       <description>&lt;h1 id=&#34;why-learning-discrete-mathematics-is-important-for-analysts&#34;&gt;Why Learning Discrete Mathematics is Important for Analysts&lt;/h1&gt;
 &lt;p&gt;Discrete mathematics is a branch of mathematics that studies finite or countable sets of objects. It covers topics such as set theory, combinatorics, graphs, logic, number theory, and algorithms.&lt;/p&gt;
 &lt;h2 id=&#34;why-do-analysts-need-discrete-mathematics&#34;&gt;Why do analysts need discrete mathematics?&lt;/h2&gt;
@@ -91,9 +91,9 @@ Analysts often need to argue hypotheses and build reasoning. Logic helps organiz
     
     <item>
       <title>Learning Object-Oriented Programming</title>
-      <link>https://example.com/publication/preprint/</link>
+      <link>https://karinashved.github.io/publication/preprint/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
+      <guid>https://karinashved.github.io/publication/preprint/</guid>
       <description>&lt;p&gt;In this project, I delved into the basics of object-oriented programming. In Python, I implemented:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Classes and methods&lt;/li&gt;
@@ -108,9 +108,9 @@ Analysts often need to argue hypotheses and build reasoning. Logic helps organiz
     
     <item>
       <title>Project Management and Digital Transformation: Implementing IT Technologies in Business Processes</title>
-      <link>https://example.com/publication/journal-article/</link>
+      <link>https://karinashved.github.io/publication/journal-article/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
+      <guid>https://karinashved.github.io/publication/journal-article/</guid>
       <description>&lt;p&gt;In an environment of increasing project complexity and the need for rapid adaptation to change, implementing IT tools has become an essential component of effective project management. In my practice, I apply hybrid methodologies that combine elements of Agile, Kanban, and traditional approaches.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Key Steps in Digital Transformation for Project Management:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -128,9 +128,9 @@ Analysts often need to argue hypotheses and build reasoning. Logic helps organiz
     
     <item>
       <title>Scientific Programming Languages</title>
-      <link>https://example.com/post/scientific-programming-languages/languages/</link>
+      <link>https://karinashved.github.io/post/scientific-programming-languages/languages/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/scientific-programming-languages/languages/</guid>
+      <guid>https://karinashved.github.io/post/scientific-programming-languages/languages/</guid>
       <description>&lt;h2 id=&#34;scientific-programming-languages-which-one-to-choose-for-researchers&#34;&gt;Scientific Programming Languages: Which One to Choose for Researchers?&lt;/h2&gt;
 &lt;p&gt;Scientific programming is a field where computational efficiency and algorithm accuracy play a key role. Choosing a programming language for scientific work depends on many factors: research domain, available libraries, performance and visualization requirements, as well as the researcher&amp;rsquo;s personal preferences.&lt;/p&gt;
 &lt;h3 id=&#34;-popular-scientific-programming-languages&#34;&gt;🔬 Popular Scientific Programming Languages&lt;/h3&gt;
@@ -163,9 +163,9 @@ Used in developing high-performance simulations, numerical libraries, and real-t
     
     <item>
       <title>IT Conference in Paris: New Horizons of Technology</title>
-      <link>https://example.com/publication/conference-paper/</link>
+      <link>https://karinashved.github.io/publication/conference-paper/</link>
       <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
+      <guid>https://karinashved.github.io/publication/conference-paper/</guid>
       <description>&lt;p&gt;The &lt;em&gt;Tech &amp;amp; Innovation Summit Paris 2025&lt;/em&gt; conference took place at the modern Station F technology hub, gathering over 5,000 participants from around the world. The program was packed with events, from morning keynote speeches to evening networking sessions and hands-on workshops.&lt;/p&gt;
 &lt;p&gt;Highlights included:&lt;/p&gt;
 &lt;ul&gt;
@@ -180,9 +180,9 @@ Used in developing high-performance simulations, numerical libraries, and real-t
     
     <item>
       <title>Weekly Update</title>
-      <link>https://example.com/post/weekly-update/weekly-update-2025-05-05/</link>
+      <link>https://karinashved.github.io/post/weekly-update/weekly-update-2025-05-05/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/weekly-update/weekly-update-2025-05-05/</guid>
+      <guid>https://karinashved.github.io/post/weekly-update/weekly-update-2025-05-05/</guid>
       <description>&lt;h2 id=&#34;-key-achievements&#34;&gt;✨ Key Achievements&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Added the &lt;strong&gt;Contacts&lt;/strong&gt; section with links to eLibrary, ORCID, Google Scholar, and others.&lt;/li&gt;
@@ -205,9 +205,9 @@ Used in developing high-performance simulations, numerical libraries, and real-t
     
     <item>
       <title>Working with Bibliography</title>
-      <link>https://example.com/post/working-with-the-bibliography/workwithbibliography/</link>
+      <link>https://karinashved.github.io/post/working-with-the-bibliography/workwithbibliography/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/working-with-the-bibliography/workwithbibliography/</guid>
+      <guid>https://karinashved.github.io/post/working-with-the-bibliography/workwithbibliography/</guid>
       <description>&lt;p&gt;For an academic website, it is especially important to properly format the list of publications and effectively manage bibliographic references. In this post, I share how I implemented bibliography management on my personal academic site using Hugo with the Wowchemy theme.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Why is this important?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A &lt;em&gt;bibliography&lt;/em&gt; is an integral part of academic activity. It allows you to showcase scientific achievements, create a transparent citation system, and make it easier for other researchers to access your work.&lt;/p&gt;
@@ -232,9 +232,9 @@ Used in developing high-performance simulations, numerical libraries, and real-t
     
     <item>
       <title>git-versions-management</title>
-      <link>https://example.com/post/version-control-git/2025-04-12-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git/</link>
+      <link>https://karinashved.github.io/post/version-control-git/2025-04-12-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git/</link>
       <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/version-control-git/2025-04-12-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git/</guid>
+      <guid>https://karinashved.github.io/post/version-control-git/2025-04-12-%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8-git/</guid>
       <description>&lt;h1 id=&#34;version-control-git&#34;&gt;&lt;strong&gt;Version Control. Git&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;Git is a powerful version control system that has become an integral part of modern software development. It allows developers to track changes in files, coordinate work among multiple people, and efficiently manage different versions of a project.&lt;/p&gt;
 &lt;h2 id=&#34;what-is-git-and-why-use-it&#34;&gt;&lt;strong&gt;What is Git and Why Use It?&lt;/strong&gt;&lt;/h2&gt;
@@ -272,9 +272,9 @@ Used in developing high-performance simulations, numerical libraries, and real-t
     
     <item>
       <title>markup-languages</title>
-      <link>https://example.com/post/markup-languages/2025-04-12-markup-languages/</link>
+      <link>https://karinashved.github.io/post/markup-languages/2025-04-12-markup-languages/</link>
       <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/markup-languages/2025-04-12-markup-languages/</guid>
+      <guid>https://karinashved.github.io/post/markup-languages/2025-04-12-markup-languages/</guid>
       <description>&lt;h1 id=&#34;lightweight-markup-languages&#34;&gt;&lt;strong&gt;Lightweight Markup Languages&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Lightweight markup languages&lt;/strong&gt; are simple and flexible formats used to create and edit texts with a minimal set of &lt;strong&gt;syntax&lt;/strong&gt;. They are widely used in &lt;strong&gt;blogs&lt;/strong&gt;, &lt;strong&gt;documentation&lt;/strong&gt;, and other text projects due to their &lt;strong&gt;simplicity&lt;/strong&gt; and &lt;strong&gt;ease of use&lt;/strong&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;advantages-of-lightweight-markup-languages&#34;&gt;&lt;strong&gt;Advantages of Lightweight Markup Languages&lt;/strong&gt;&lt;/h2&gt;
@@ -334,9 +334,9 @@ Used in developing high-performance simulations, numerical libraries, and real-t
     
     <item>
       <title>Weekly Update</title>
-      <link>https://example.com/post/weekly-update/2025-04-12-weekly-update/</link>
+      <link>https://karinashved.github.io/post/weekly-update/2025-04-12-weekly-update/</link>
       <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/weekly-update/2025-04-12-weekly-update/</guid>
+      <guid>https://karinashved.github.io/post/weekly-update/2025-04-12-weekly-update/</guid>
       <description>&lt;p&gt;This week I worked on the following tasks:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Completed important milestones in the project management initiative.&lt;/li&gt;
@@ -354,9 +354,9 @@ Used in developing high-performance simulations, numerical libraries, and real-t
     
     <item>
       <title>Weekly Update 2025-04-02: Event Overview</title>
-      <link>https://example.com/post/weekly-update/weekly-update-2025-04-02/</link>
+      <link>https://karinashved.github.io/post/weekly-update/weekly-update-2025-04-02/</link>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/weekly-update/weekly-update-2025-04-02/</guid>
+      <guid>https://karinashved.github.io/post/weekly-update/weekly-update-2025-04-02/</guid>
       <description>&lt;h1 id=&#34;last-week-2025-04-02-overview-of-events&#34;&gt;&lt;strong&gt;Last Week 2025-04-02: Overview of Events&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;The week before last was busy and interesting. A lot of important events happened that I’d like to share with you.&lt;/p&gt;
 &lt;h2 id=&#34;key-events&#34;&gt;&lt;strong&gt;Key Events&lt;/strong&gt;&lt;/h2&gt;
@@ -382,49 +382,49 @@ Used in developing high-performance simulations, numerical libraries, and real-t
     
     <item>
       <title>Projects</title>
-      <link>https://example.com/projects/</link>
+      <link>https://karinashved.github.io/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/</guid>
+      <guid>https://karinashved.github.io/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Creating a Personal Academic Website with Hugo</title>
-      <link>https://example.com/project/scikit/</link>
+      <link>https://karinashved.github.io/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/scikit/</guid>
+      <guid>https://karinashved.github.io/project/scikit/</guid>
       <description>&lt;p&gt;A project to create a personal website for an academic using the Hugo static site generator and the Wowchemy theme, including sections for biography, publications, interests, and a blog.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Go Basics</title>
-      <link>https://example.com/project/pytorch/</link>
+      <link>https://karinashved.github.io/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/pytorch/</guid>
+      <guid>https://karinashved.github.io/project/pytorch/</guid>
       <description>&lt;p&gt;Solving problems using Go.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Linux Lab Exercises</title>
-      <link>https://example.com/project/pandas/</link>
+      <link>https://karinashved.github.io/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/pandas/</guid>
+      <guid>https://karinashved.github.io/project/pandas/</guid>
       <description>&lt;p&gt;Study of Linux fundamentals, text editors, the console, and directory structure.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://example.com/experience/</link>
+      <link>https://karinashved.github.io/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/experience/</guid>
+      <guid>https://karinashved.github.io/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>https://example.com/teaching/js/</link>
+      <link>https://karinashved.github.io/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/js/</guid>
+      <guid>https://karinashved.github.io/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -471,7 +471,7 @@ Used in developing high-performance simulations, numerical libraries, and real-t
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://example.com/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://karinashved.github.io/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -548,9 +548,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>https://example.com/teaching/python/</link>
+      <link>https://karinashved.github.io/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/python/</guid>
+      <guid>https://karinashved.github.io/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -597,7 +597,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://example.com/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://karinashved.github.io/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -674,9 +674,9 @@ data.head()
     
     <item>
       <title>Hugo Boss for product managers: how to create a selling product website in a day</title>
-      <link>https://example.com/event/example/</link>
+      <link>https://karinashved.github.io/event/example/</link>
       <pubDate>Tue, 10 Oct 2023 11:00:00 +0000</pubDate>
-      <guid>https://example.com/event/example/</guid>
+      <guid>https://karinashved.github.io/event/example/</guid>
       <description>&lt;h2 id=&#34;what-i-talked-about&#34;&gt;What I talked about&lt;/h2&gt;
 &lt;h3 id=&#34;case-study&#34;&gt;Case study&lt;/h3&gt;
 &lt;ul&gt;
@@ -735,9 +735,9 @@ data.head()
     
     <item>
       <title>Contacts</title>
-      <link>https://example.com/contact/</link>
+      <link>https://karinashved.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/contact/</guid>
+      <guid>https://karinashved.github.io/contact/</guid>
       <description>&lt;h2 id=&#34;scientific-and-bibliometric-resources&#34;&gt;Scientific and bibliometric resources&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?view_op=new_profile&amp;amp;hl=ru&amp;amp;authuser=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;

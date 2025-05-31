@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Персональный сайт научного сотрудника</title>
-    <link>https://example.com/ru/project/</link>
-      <atom:link href="https://example.com/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://karinashved.github.io/ru/project/</link>
+      <atom:link href="https://karinashved.github.io/ru/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://karinashved.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Projects</title>
-      <link>https://example.com/ru/project/</link>
+      <link>https://karinashved.github.io/ru/project/</link>
     </image>
     
     <item>
       <title>Лабораторные работы по Linux</title>
-      <link>https://example.com/ru/project/pandas/</link>
+      <link>https://karinashved.github.io/ru/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/pandas/</guid>
+      <guid>https://karinashved.github.io/ru/project/pandas/</guid>
       <description>&lt;p&gt;Изучение основ Linux, текстовых редакторов, консоли, каталоговой структуры&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Основы GO</title>
-      <link>https://example.com/ru/project/pytorch/</link>
+      <link>https://karinashved.github.io/ru/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/pytorch/</guid>
+      <guid>https://karinashved.github.io/ru/project/pytorch/</guid>
       <description>&lt;p&gt;Решение задач с помощью  Go&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Создание персонального сайта для научного работника с помощью Hugo</title>
-      <link>https://example.com/ru/project/scikit/</link>
+      <link>https://karinashved.github.io/ru/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/scikit/</guid>
+      <guid>https://karinashved.github.io/ru/project/scikit/</guid>
       <description>&lt;p&gt;Проект по созданию персонального сайта для научного сотрудника с использованием генератора статических сайтов Hugo и шаблона Wowchemy, включающий разделы биографии, публикаций, интересов и блога.&lt;/p&gt;</description>
     </item>
     

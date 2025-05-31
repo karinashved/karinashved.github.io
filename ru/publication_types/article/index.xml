@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article | Персональный сайт научного сотрудника</title>
-    <link>https://example.com/ru/publication_types/article/</link>
-      <atom:link href="https://example.com/ru/publication_types/article/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://karinashved.github.io/ru/publication_types/article/</link>
+      <atom:link href="https://karinashved.github.io/ru/publication_types/article/index.xml" rel="self" type="application/rss+xml" />
     <description>Article</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://karinashved.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Article</title>
-      <link>https://example.com/ru/publication_types/article/</link>
+      <link>https://karinashved.github.io/ru/publication_types/article/</link>
     </image>
     
     <item>
       <title>Изучение объектно-ориентированного программирования</title>
-      <link>https://example.com/ru/publication/preprint/</link>
+      <link>https://karinashved.github.io/ru/publication/preprint/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/publication/preprint/</guid>
+      <guid>https://karinashved.github.io/ru/publication/preprint/</guid>
       <description>&lt;p&gt;В этом проекте я погрузилась в основы объектно-ориентированного программирования. На языке Python были реализованы:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;классы и методы;&lt;/li&gt;

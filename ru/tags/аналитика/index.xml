@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Аналитика | Персональный сайт научного сотрудника</title>
-    <link>https://example.com/ru/tags/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0/</link>
-      <atom:link href="https://example.com/ru/tags/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://karinashved.github.io/ru/tags/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0/</link>
+      <atom:link href="https://karinashved.github.io/ru/tags/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0/index.xml" rel="self" type="application/rss+xml" />
     <description>Аналитика</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://karinashved.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Аналитика</title>
-      <link>https://example.com/ru/tags/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0/</link>
+      <link>https://karinashved.github.io/ru/tags/%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0/</link>
     </image>
     
     <item>
       <title>Почему изучение дискретной математики важно для аналитика</title>
-      <link>https://example.com/ru/post/discretemath/discretemath/</link>
+      <link>https://karinashved.github.io/ru/post/discretemath/discretemath/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/discretemath/discretemath/</guid>
+      <guid>https://karinashved.github.io/ru/post/discretemath/discretemath/</guid>
       <description>&lt;h1 id=&#34;почему-изучение-дискретной-математики-важно-для-аналитика&#34;&gt;Почему изучение дискретной математики важно для аналитика&lt;/h1&gt;
 &lt;p&gt;Дискретная математика — это раздел математики, который изучает конечные или счётные множества объектов. Она охватывает такие темы, как теория множеств, комбинаторика, графы, логика, теория чисел и алгоритмы.&lt;/p&gt;
 &lt;h2 id=&#34;зачем-аналитикам-дискретная-математика&#34;&gt;Зачем аналитикам дискретная математика?&lt;/h2&gt;

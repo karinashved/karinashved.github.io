@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Discrete Mathematics | Personal Academic Website</title>
-    <link>https://example.com/tags/discrete-mathematics/</link>
-      <atom:link href="https://example.com/tags/discrete-mathematics/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://karinashved.github.io/tags/discrete-mathematics/</link>
+      <atom:link href="https://karinashved.github.io/tags/discrete-mathematics/index.xml" rel="self" type="application/rss+xml" />
     <description>Discrete Mathematics</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://karinashved.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Discrete Mathematics</title>
-      <link>https://example.com/tags/discrete-mathematics/</link>
+      <link>https://karinashved.github.io/tags/discrete-mathematics/</link>
     </image>
     
     <item>
       <title>Why Learning Discrete Mathematics is Important for Analysts</title>
-      <link>https://example.com/post/discretemath/discretemath/</link>
+      <link>https://karinashved.github.io/post/discretemath/discretemath/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/discretemath/discretemath/</guid>
+      <guid>https://karinashved.github.io/post/discretemath/discretemath/</guid>
       <description>&lt;h1 id=&#34;why-learning-discrete-mathematics-is-important-for-analysts&#34;&gt;Why Learning Discrete Mathematics is Important for Analysts&lt;/h1&gt;
 &lt;p&gt;Discrete mathematics is a branch of mathematics that studies finite or countable sets of objects. It covers topics such as set theory, combinatorics, graphs, logic, number theory, and algorithms.&lt;/p&gt;
 &lt;h2 id=&#34;why-do-analysts-need-discrete-mathematics&#34;&gt;Why do analysts need discrete mathematics?&lt;/h2&gt;

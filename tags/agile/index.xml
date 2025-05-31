@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agile | Personal Academic Website</title>
-    <link>https://example.com/tags/agile/</link>
-      <atom:link href="https://example.com/tags/agile/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://karinashved.github.io/tags/agile/</link>
+      <atom:link href="https://karinashved.github.io/tags/agile/index.xml" rel="self" type="application/rss+xml" />
     <description>Agile</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://karinashved.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Agile</title>
-      <link>https://example.com/tags/agile/</link>
+      <link>https://karinashved.github.io/tags/agile/</link>
     </image>
     
     <item>
       <title>Project Management and Digital Transformation: Implementing IT Technologies in Business Processes</title>
-      <link>https://example.com/publication/journal-article/</link>
+      <link>https://karinashved.github.io/publication/journal-article/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
+      <guid>https://karinashved.github.io/publication/journal-article/</guid>
       <description>&lt;p&gt;In an environment of increasing project complexity and the need for rapid adaptation to change, implementing IT tools has become an essential component of effective project management. In my practice, I apply hybrid methodologies that combine elements of Agile, Kanban, and traditional approaches.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Key Steps in Digital Transformation for Project Management:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;

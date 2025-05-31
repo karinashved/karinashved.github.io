@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python | Персональный сайт научного сотрудника</title>
-    <link>https://example.com/ru/tags/python/</link>
-      <atom:link href="https://example.com/ru/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://karinashved.github.io/ru/tags/python/</link>
+      <atom:link href="https://karinashved.github.io/ru/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <description>Python</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>https://karinashved.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Python</title>
-      <link>https://example.com/ru/tags/python/</link>
+      <link>https://karinashved.github.io/ru/tags/python/</link>
     </image>
     
     <item>
       <title>Изучение объектно-ориентированного программирования</title>
-      <link>https://example.com/ru/publication/preprint/</link>
+      <link>https://karinashved.github.io/ru/publication/preprint/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/publication/preprint/</guid>
+      <guid>https://karinashved.github.io/ru/publication/preprint/</guid>
       <description>&lt;p&gt;В этом проекте я погрузилась в основы объектно-ориентированного программирования. На языке Python были реализованы:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;классы и методы;&lt;/li&gt;
@@ -31,9 +31,9 @@
     
     <item>
       <title>Языки научного программирования</title>
-      <link>https://example.com/ru/post/scientific-programming-languages/languages/</link>
+      <link>https://karinashved.github.io/ru/post/scientific-programming-languages/languages/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/scientific-programming-languages/languages/</guid>
+      <guid>https://karinashved.github.io/ru/post/scientific-programming-languages/languages/</guid>
       <description>&lt;h2 id=&#34;языки-научного-программирования-что-выбрать-исследователю&#34;&gt;Языки научного программирования: что выбрать исследователю?&lt;/h2&gt;
 &lt;p&gt;Научное программирование — это область, где эффективность вычислений и точность алгоритмов играют ключевую роль. Выбор языка программирования для научной работы зависит от множества факторов: области исследования, доступных библиотек, требований к производительности и визуализации, а также личных предпочтений исследователя.&lt;/p&gt;
 &lt;h3 id=&#34;-популярные-языки-научного-программирования&#34;&gt;🔬 Популярные языки научного программирования&lt;/h3&gt;
@@ -66,9 +66,9 @@
     
     <item>
       <title>Изучите Python</title>
-      <link>https://example.com/ru/teaching/python/</link>
+      <link>https://karinashved.github.io/ru/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/teaching/python/</guid>
+      <guid>https://karinashved.github.io/ru/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; создан для того, чтобы технические авторы могли сосредоточиться на содержании, а Hugo Blox — на всем остальном.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Встраивайте видео, подкасты, код, формулы LaTeX и даже тесты для студентов!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;На этой странице вы найдёте примеры различных типов технического контента, которые можно использовать с Hugo Blox.&lt;/p&gt;
@@ -115,7 +115,7 @@
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://example.com/ru/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://karinashved.github.io/ru/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;проверка-знаний&#34;&gt;Проверка знаний&lt;/h2&gt;
